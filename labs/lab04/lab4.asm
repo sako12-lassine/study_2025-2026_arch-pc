@@ -1,6 +1,6 @@
 ; hello.asm
 SECTION .data
-    hello: DB 'Hello world!',10
+    hello: DB 'Сако Лассине',10
     helloLen: EQU $-hello
 
 SECTION .text
